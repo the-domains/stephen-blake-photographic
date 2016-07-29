@@ -1,28 +1,40 @@
-name: Stephen Blake Photographic
 favicon: null
-layout_spectrum: 0.4834160141181201
-typography_spectrum: 0.191515440819785
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Stephen Blake Photographic
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.11350472713820636
-  lightness: 0.3652585481759161
-  saturation: 0.4821188992355019
-  rhythmicContrast: 0.664574142312631
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.2959183
+  brandStrength: 1
+  lightness: 0.8630504
+  brandColors:
+    - '#003D62'
+    - '#FFFFFF'
+    - '#DAE2E7'
+    - '#8BA8B8'
+    - '#2B5775'
+  rhythmicContrast: 0.6815252
+typography_spectrum: 0.2690655
+layout_spectrum: 0.2572502
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
