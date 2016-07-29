@@ -1,5 +1,7 @@
-favicon: null
-name: Stephen Blake Photographic
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -29,12 +31,10 @@ color:
     - '#2B5775'
   rhythmicContrast: 0.6815252
 typography_spectrum: 0.2690655
-layout_spectrum: 0.2572502
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.2604726
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Stephen Blake Photographic
