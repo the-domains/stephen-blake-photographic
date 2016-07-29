@@ -1,0 +1,28 @@
+name: Stephen Blake Photographic
+favicon: null
+layout_spectrum: 0.4834160141181201
+typography_spectrum: 0.191515440819785
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.11350472713820636
+  lightness: 0.3652585481759161
+  saturation: 0.4821188992355019
+  rhythmicContrast: 0.664574142312631
+purpose: []
