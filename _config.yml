@@ -1,7 +1,4 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
+name: Stephen Blake Photographic
 opengraph:
   image: null
   type: null
@@ -12,29 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.2959183
-  brandStrength: 1
-  lightness: 0.8630504
+  saturation: 0.04887218
+  brandStrength: 0.4752954
+  lightness: 0.4022556
   brandColors:
     - '#003D62'
     - '#FFFFFF'
     - '#DAE2E7'
     - '#8BA8B8'
     - '#2B5775'
-  rhythmicContrast: 0.6815252
+  rhythmicContrast: 0.5139635
 typography_spectrum: 0.2690655
-layout_spectrum: 0.2604726
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
 favicon: null
-name: Stephen Blake Photographic
+layout_spectrum: 0.2604726
